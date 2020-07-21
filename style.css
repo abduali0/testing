@@ -1,0 +1,11 @@
+.nav-wrap {
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+
+.nav-wrap > .navbar-left > div{
+    display: inline-flex;
+    margin-right: 30px;
+    font-size: 0.9em;
+}
